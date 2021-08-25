@@ -4,7 +4,7 @@ This is a repository with all my lessons in JavaScript, practicing with codecade
 
 ---
 
-1. [Hello World(Basic Structure).](indexh.js)
+1. [Hello World (Basic Structure).](indexh.js)
 
 2. [Variables and Assigment Operators.](introduction1.js)
 
