@@ -24,3 +24,5 @@ This is a repository with all my lessons in JavaScript, practicing with codecade
 
 10. [Scope (Blocks and Scope, Global Scope, Block Scope and Practice Good Scoping).](scope.js)
 
+11. [Loops (Repeating Tasks Manually, The For Loop, Looping in Reverse, Looping through Arrays and Nested Loops).](loops1.js)
+
