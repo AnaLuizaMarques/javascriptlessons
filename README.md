@@ -26,3 +26,7 @@ This is a repository with all my lessons in JavaScript, practicing with codecade
 
 11. [Loops (Repeating Tasks Manually, The For Loop, Looping in Reverse, Looping through Arrays and Nested Loops).](loops1.js)
 
+12. [Loops (The While Loop, Do...While Statements and The break Keyword).](loops2.js)
+
+13. [Higher-Order Functions (Functions as Data and Functions as Parameters).](hofunctions.js)
+
