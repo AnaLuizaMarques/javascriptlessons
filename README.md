@@ -3,7 +3,7 @@
 This is a repository with all my lessons in JavaScript, practicing with Codecademy Website.
 
 ---
-- [The JavaScript documentation by Codecademy.](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [The JavaScript documentation by Codecademy.](https://www.codecademy.com/resources/docs/javascript)
 
 1. [Hello World (Basic Structure).](indexh.js)
 
