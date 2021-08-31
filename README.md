@@ -30,3 +30,9 @@ This is a repository with all my lessons in JavaScript, practicing with codecade
 
 13. [Higher-Order Functions (Functions as Data and Functions as Parameters).](hofunctions.js)
 
+14. [Iterators (The .forEach(), .map() and .filter() Methods).](iterators1.js)
+
+15. [Iterators (The .reduce(), .findIndex() Methods and Iterator Documentation).](iterators2.js)
+
+16. [Iterators questions.](iteratorschose.js)
+
