@@ -1,8 +1,9 @@
 # Hello World in JavaScript!
 
-This is a repository with all my lessons in JavaScript, practicing with codecademy website.
+This is a repository with all my lessons in JavaScript, practicing with Codecademy Website.
 
 ---
+- [The JavaScript documentation by Codecademy.](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 1. [Hello World (Basic Structure).](indexh.js)
 
@@ -35,4 +36,10 @@ This is a repository with all my lessons in JavaScript, practicing with codecade
 15. [Iterators (The .reduce(), .findIndex() Methods and Iterator Documentation).](iterators2.js)
 
 16. [Iterators questions.](iteratorschose.js)
+
+17. [Objects (Creating Object Literals, Accessing Properties, Bracket Notation and Property Assignment).](objects1.js)
+
+18. [Objects (Methods and Nested Objects).](objects2.js)
+
+19. [Objects (Pass By Reference and Looping Through Objects).](objects3.js)
 
