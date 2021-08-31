@@ -1,4 +1,4 @@
-//Choose the Right Iterator:
+// Choose the Right Iterator:
 
 const cities = ['Orlando', 'Dubai', 'Edinburgh', 'Chennai', 'Accra', 'Denver', 'Eskisehir', 'Medellin', 'Yokohama'];
 const nums = [1, 50, 75, 200, 350, 525, 1000];
