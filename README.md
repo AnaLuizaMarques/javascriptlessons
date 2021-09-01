@@ -43,3 +43,11 @@ This is a repository with all my lessons in JavaScript, practicing with Codecade
 
 19. [Objects (Pass By Reference and Looping Through Objects).](objects3.js)
 
+20. [Advanced Objects (The "this" Keyword, Arrow Functions and "this", Privacy and Getters).](advancedobjects1.js)
+
+21. [Advanced Objects (Setters and Factory Functions).](advancedobjects2.js)
+
+22. [Advanced Objects (Property Value Shorthand and Destructured Assignment).](advancedobjects3.js)
+
+23. [Advanced Objects questions.](advancedobjectsquest.js)
+
