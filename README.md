@@ -5,6 +5,8 @@ This is a repository with all my lessons in JavaScript, practicing with Codecade
 ---
 - [The JavaScript documentation by Codecademy.](https://www.codecademy.com/resources/docs/javascript)
 
+- [We can use caniuse.com to find the percentage of browsers that support the entire ES5 library and ES6 library.](https://caniuse.com/)
+
 1. [Hello World (Basic Structure).](indexh.js)
 
 2. [Variables and Assigment Operators.](introduction1.js)
