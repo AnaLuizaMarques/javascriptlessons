@@ -15,7 +15,7 @@ This is a repository with all my lessons in JavaScript, practicing with Codecade
  
 4. [Condicional Statements (If, If...Else, Comparison and Logical Operators).](conditionalstatements1.js)
 
-5. [Condicional Statemens (Truthy and Falsy, Ternary Operator, Else If, and Switch Keyword).](conditionalstatements.2.js)
+5. [Condicional Statemens (Truthy and Falsy, Ternary Operator, Else If, and Switch Keyword).](conditionalstatements2.js)
 
 6. [Functions (Declarations, Calling a Function, Parameters and Arguments, Default Parameters and Return).](functions1.js)
  
